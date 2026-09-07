@@ -1,5 +1,38 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.celrep.2026.117785
+  title: Depletion of CARM1 slows in vivo tumorigenicity and rewires developmental
+    programming in glioma stem-like cells
+  authors:
+  - Dejauwne L. Young
+  - Stephanie Stransky
+  - Maria G. Molero
+  - Erika Yamashita
+  - Shivangi Pande
+  - Vivek Kumar
+  - Saurabh Singh
+  - Jennifer Aguilan
+  - Ronald Cutler
+  - Wade Koba
+  - Joseph D. DeAngelo
+  - Jacob S. Roth
+  - Jinghang Zhang
+  - Tianfang He
+  - Beata Malachowska
+  - Justin Vercellino
+  - Brett I. Bell
+  - David Shechter
+  - Philip J. Tofilon
+  - Richard E. Phillips
+  - Jinan Behnan
+  - Chandan Guha
+  - Simone Sidoli
+  publisher: Cell Reports
+  date: '2026-08-01'
+  link: https://doi.org/hchvp8
+  orcid: 0000-0002-8439-1402
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ijrobp.2025.06.2566
   title: Carbon Ion Therapy-Induced Local Control of Pancreatic Cancer is Dependent
     on the Presence of the Adaptive Anti-Tumor Immunity
