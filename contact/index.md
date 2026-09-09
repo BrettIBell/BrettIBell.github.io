@@ -12,8 +12,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="brett.bell@einsteinmed.edu"
-  link="brett.bell@einsteinmed.edu"
+  text="brett.bell@medstar.net"
+  link="brett.bell@medstar.net"
 %}
 
 

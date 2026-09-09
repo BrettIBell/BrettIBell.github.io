@@ -49,6 +49,9 @@
 - id: doi:10.1101/2024.07.08.602528
   remove: true
 
+- id: doi:10.1016/j.celrep.2026.117785
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124726X20071-cov200h.gif 
+
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
 #   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
